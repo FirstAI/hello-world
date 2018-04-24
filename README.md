@@ -1,3 +1,2 @@
 # hello-world
-For educational purposes only
-This edit is for educational purposes only
+This repository is used for experimenting with different AI APIs / Code solutions.
